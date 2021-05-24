@@ -1,0 +1,15 @@
+Added Component: Designator=B1(BatteryHolder_AA)
+Added Component: Designator=B2(BatteryHolder_AA)
+Added Component: Designator=SW1(RR3130Switch)
+Added Pin To Net: NetName=GND Pin=B2-2
+Added Pin To Net: NetName=3V3 Pin=SW1-1
+Added Pin To Net: NetName=3V3 Pin=U1-CN4_14
+Added Net: Name=3V3
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=SW1-3
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=B2-1
+Added Net: Name=NetB1_2
+Added Class: Name=Power
+Added Room: Name=Power

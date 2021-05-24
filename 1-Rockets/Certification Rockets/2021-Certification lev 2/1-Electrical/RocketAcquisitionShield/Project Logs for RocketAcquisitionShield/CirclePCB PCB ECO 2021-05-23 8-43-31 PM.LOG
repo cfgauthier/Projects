@@ -1,0 +1,45 @@
+Added Component: Designator=U1(STM32L432KC)
+Added Component: Designator=U2(BME280)
+Added Component: Designator=U3(MPU6050)
+Added Component: Designator=U4(ZC343900)
+Added Pin To Net: NetName=3V3 Pin=U1-CN4_14
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=U1-CN4_4
+Added Pin To Net: NetName=5V Pin=U2-1
+Added Pin To Net: NetName=5V Pin=U3-1
+Added Pin To Net: NetName=5V Pin=U4-2
+Added Net: Name=5V
+Added Pin To Net: NetName=BME280_CS Pin=U2-7
+Added Net: Name=BME280_CS
+Added Pin To Net: NetName=BME280_MISO Pin=U1-CN3_15
+Added Net: Name=BME280_MISO
+Added Pin To Net: NetName=BME280_MOSI Pin=U2-6
+Added Net: Name=BME280_MOSI
+Added Pin To Net: NetName=BME280_SCLK Pin=U2-4
+Added Net: Name=BME280_SCLK
+Added Pin To Net: NetName=GND Pin=U1-CN3_4
+Added Pin To Net: NetName=GND Pin=U1-CN4_2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MPU6050_SCL Pin=U3-3
+Added Net: Name=MPU6050_SCL
+Added Pin To Net: NetName=MPU6050_SDA Pin=U1-CN3_2
+Added Net: Name=MPU6050_SDA
+Added Pin To Net: NetName=SD_CS Pin=U1-CN3_9
+Added Net: Name=SD_CS
+Added Pin To Net: NetName=SD_MISO Pin=U4-3
+Added Net: Name=SD_MISO
+Added Pin To Net: NetName=SD_MOSI Pin=U1-CN4_7
+Added Net: Name=SD_MOSI
+Added Pin To Net: NetName=SD_SCK Pin=U1-CN4_9
+Added Net: Name=SD_SCK
+Added Pin To Net: NetName=VIN Pin=U1-CN4_1
+Added Net: Name=VIN
+Added Class: Name=SD
+Added Class: Name=Sensors
+Added Class: Name=STM32
+Added Room: Name=SD
+Added Room: Name=Sensors
+Added Room: Name=STM32
