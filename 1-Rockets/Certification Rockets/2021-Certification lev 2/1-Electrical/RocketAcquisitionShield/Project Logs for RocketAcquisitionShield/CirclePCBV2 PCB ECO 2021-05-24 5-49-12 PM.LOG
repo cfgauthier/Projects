@@ -1,0 +1,9 @@
+Added Component: Designator=J1(16pin-MF-Connector)
+Added Component: Designator=J2(16pin-MF-Connector)
+Added Member To Class: ClassName=STM32 Member=Component J1 16pin-MF-Connector
+Added Member To Class: ClassName=STM32 Member=Component J2 16pin-MF-Connector
+Added Member To Class: ClassName=STM32 Member=Component U1 STM32L432KC
+Added Room: Name=Power
+Added Room: Name=SD
+Added Room: Name=Sensors
+Added Room: Name=STM32

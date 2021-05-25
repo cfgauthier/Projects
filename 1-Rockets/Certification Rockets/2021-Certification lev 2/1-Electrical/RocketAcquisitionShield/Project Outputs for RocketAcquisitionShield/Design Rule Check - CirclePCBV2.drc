@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Repos\ProjectsGitHub\Projects\1-Rockets\Certification Rockets\2021-Certification lev 2\1-Electrical\RocketAcquisitionShield\CirclePCBV2.PcbDoc
 Date     : 2021-05-24
-Time     : 12:46:07 AM
+Time     : 11:51:00 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -21,7 +21,7 @@ Rule Violations :0
 Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=120mil) (All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=140mil) (All)
 Rule Violations :0
 
 Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
