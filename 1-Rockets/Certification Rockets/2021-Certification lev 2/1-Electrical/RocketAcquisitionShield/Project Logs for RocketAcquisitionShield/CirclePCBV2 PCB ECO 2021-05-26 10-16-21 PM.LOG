@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SD_SPI3 Pin=U1-CN4_6
+Removed Pin From Net: NetName=SD_SPI2 Pin=U1-CN4_7
+Removed Pin From Net: NetName=SD_SPI1 Pin=U1-CN4_8
+Added Room: Name=Power
+Added Room: Name=SD
+Added Room: Name=Sensors
+Added Room: Name=STM32

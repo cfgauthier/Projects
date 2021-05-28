@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SD_SPI3 Pin=J2-6
+Added Pin To Net: NetName=SD_SPI2 Pin=J2-7
+Added Pin To Net: NetName=SD_SPI1 Pin=J2-8
+Added Pin To Net: NetName=SD_SPI0 Pin=J2-11
+Added Pin To Net: NetName=SD_SPI3 Pin=U1-CN4_6
+Added Pin To Net: NetName=SD_SPI2 Pin=U1-CN4_7
+Added Pin To Net: NetName=SD_SPI1 Pin=U1-CN4_8

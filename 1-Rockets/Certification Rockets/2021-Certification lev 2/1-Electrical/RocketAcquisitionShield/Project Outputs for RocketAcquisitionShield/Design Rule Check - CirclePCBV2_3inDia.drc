@@ -1,0 +1,119 @@
+Protel Design System Design Rule Check
+PCB File : C:\Repos\ProjectsGitHub\Projects\1-Rockets\Certification Rockets\2021-Certification lev 2\1-Electrical\RocketAcquisitionShield\Project Outputs for RocketAcquisitionShield\REV_Project_Revision_2021-05-26\02-1 - PCB FAB\CirclePCBV2_3inDia.PcbDoc
+Date     : 2021-05-27
+Time     : 2:24:27 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetB1_1 Between Pad SW1-3(5555mil,2715mil) on Top Layer And Pad B1-1(6305mil,2745mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetB1_2 Between Pad B1-2(6305mil,334mil) on Top Layer And Pad B2-1(6955mil,245mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-2(2500mil,2900mil) on Multi-Layer And Pad B2-2(6955mil,2656mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net MPU6050_I2C0 Between Pad J1-1(1150mil,350mil) on Multi-Layer And Pad U1-CN3_1(1150mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_10 Between Pad J1-10(2050mil,350mil) on Multi-Layer And Pad U1-CN3_10(2050mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_11 Between Pad J1-11(2150mil,350mil) on Multi-Layer And Pad U1-CN3_11(2150mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_12 Between Pad J1-12(2250mil,350mil) on Multi-Layer And Pad U1-CN3_12(2250mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_13 Between Pad J1-13(2350mil,350mil) on Multi-Layer And Pad U1-CN3_13(2350mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI2 Between Pad J1-14(2450mil,350mil) on Multi-Layer And Pad U1-CN3_14(2450mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI1 Between Pad J1-15(2550mil,350mil) on Multi-Layer And Pad U1-CN3_15(2550mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net MPU6050_I2C1 Between Pad J1-2(1250mil,350mil) on Multi-Layer And Pad U1-CN3_2(1250mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_3 Between Pad J1-3(1350mil,350mil) on Multi-Layer And Pad U1-CN3_3(1350mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J1-4(1450mil,350mil) on Multi-Layer And Pad U1-CN3_4(1450mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_5 Between Pad J1-5(1550mil,350mil) on Multi-Layer And Pad U1-CN3_5(1550mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_6 Between Pad J1-6(1650mil,350mil) on Multi-Layer And Pad U1-CN3_6(1650mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_7 Between Pad J1-7(1750mil,350mil) on Multi-Layer And Pad U1-CN3_7(1750mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI3 Between Pad J1-8(1850mil,350mil) on Multi-Layer And Pad U1-CN3_8(1850mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN3_9 Between Pad J1-9(1950mil,350mil) on Multi-Layer And Pad U1-CN3_9(1950mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_1 Between Pad U1-CN4_1(1150mil,1100mil) on Multi-Layer And Pad J2-1(1150mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_10 Between Pad U1-CN4_10(2050mil,1100mil) on Multi-Layer And Pad J2-10(2050mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI0 Between Pad U1-CN4_11(2150mil,1100mil) on Multi-Layer And Pad J2-11(2150mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI0 Between Pad U4-6(884.923mil,1565.798mil) on Multi-Layer And Pad J2-11(2150mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_12 Between Pad U1-CN4_12(2250mil,1100mil) on Multi-Layer And Pad J2-12(2250mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_13 Between Pad U1-CN4_13(2350mil,1100mil) on Multi-Layer And Pad J2-13(2350mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad J2-14(2450mil,1250mil) on Multi-Layer And Pad SW1-1(5555mil,2115mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 3V3 Between Pad U1-CN4_14(2450mil,1100mil) on Multi-Layer And Pad J2-14(2450mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI0 Between Pad U1-CN4_15(2550mil,1100mil) on Multi-Layer And Pad J2-15(2550mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI0 Between Pad U2-4(2000mil,2800mil) on Multi-Layer And Pad J2-15(2550mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-CN4_2(1250mil,1100mil) on Multi-Layer And Pad J2-2(1250mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-2(1250mil,1250mil) on Multi-Layer And Pad U2-3(2100mil,2800mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-1(415.077mil,1736.808mil) on Multi-Layer And Pad J2-2(1250mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_3 Between Pad U1-CN4_3(1350mil,1100mil) on Multi-Layer And Pad J2-3(1350mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad U1-CN4_4(1450mil,1100mil) on Multi-Layer And Pad J2-4(1450mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad J2-4(1450mil,1250mil) on Multi-Layer And Pad U2-1(2300mil,2800mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad U4-2(509.046mil,1702.606mil) on Multi-Layer And Pad J2-4(1450mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_5 Between Pad U1-CN4_5(1550mil,1100mil) on Multi-Layer And Pad J2-5(1550mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI3 Between Pad U1-CN4_6(1650mil,1100mil) on Multi-Layer And Pad J2-6(1650mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI3 Between Pad U4-4(696.985mil,1634.202mil) on Multi-Layer And Pad J2-6(1650mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI2 Between Pad U1-CN4_7(1750mil,1100mil) on Multi-Layer And Pad J2-7(1750mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI2 Between Pad U4-3(603.015mil,1668.404mil) on Multi-Layer And Pad J2-7(1750mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI1 Between Pad U1-CN4_8(1850mil,1100mil) on Multi-Layer And Pad J2-8(1850mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net SD_SPI1 Between Pad U4-5(790.954mil,1600mil) on Multi-Layer And Pad J2-8(1850mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net CN4_9 Between Pad U1-CN4_9(1950mil,1100mil) on Multi-Layer And Pad J2-9(1950mil,1250mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net MPU6050_I2C0 Between Pad U1-CN3_1(1150mil,500mil) on Multi-Layer And Pad U3-3(2500mil,2800mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI2 Between Pad U2-6(1800mil,2800mil) on Multi-Layer And Pad U1-CN3_14(2450mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI1 Between Pad U2-5(1900mil,2800mil) on Multi-Layer And Pad U1-CN3_15(2550mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net MPU6050_I2C1 Between Pad U1-CN3_2(1250mil,500mil) on Multi-Layer And Pad U3-4(2500mil,2700mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-CN4_2(1250mil,1100mil) on Multi-Layer And Pad U1-CN3_4(1450mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net BME280_SPI3 Between Pad U2-7(1700mil,2800mil) on Multi-Layer And Pad U1-CN3_8(1850mil,500mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad U2-1(2300mil,2800mil) on Multi-Layer And Pad U3-1(2500mil,3000mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-3(2100mil,2800mil) on Multi-Layer And Pad U3-2(2500mil,2900mil) on Multi-Layer 
+Rule Violations :51
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Via (2970mil,2340mil) from Top Layer to Bottom Layer Actual Hole Size = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Via (2970mil,2960mil) from Top Layer to Bottom Layer Actual Hole Size = 118.11mil
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (8.117mil < 10mil) Between Arc (1100mil,1150mil) on Top Overlay And Pad U1-CN4_1(1150mil,1100mil) on Multi-Layer [Top Overlay] to [Top Solder] clearance [8.117mil]
+Rule Violations :1
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.016mil < 10mil) Between Text "J2" (990.016mil,1215.01mil) on Top Overlay And Track (1100mil,1200mil)(1100mil,1300mil) on Top Overlay Silk Text to Silk Clearance [0.016mil]
+   Violation between Silk To Silk Clearance Constraint: (8.045mil < 10mil) Between Text "J2" (990.016mil,1215.01mil) on Top Overlay And Track (1100mil,1200mil)(2700mil,1200mil) on Top Overlay Silk Text to Silk Clearance [8.045mil]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room Sensors (Bounding Region = (5300mil, 5195mil, 6785mil, 6220mil) (InComponentClass('Sensors'))
+Rule Violations :0
+
+Processing Rule : Room STM32 (Bounding Region = (5280mil, 6345mil, 6515mil, 8540mil) (InComponentClass('STM32'))
+Rule Violations :0
+
+Processing Rule : Room SD (Bounding Region = (5315mil, 3120mil, 6445mil, 5125mil) (InComponentClass('SD'))
+Rule Violations :0
+
+Processing Rule : Room Power (Bounding Region = (5290mil, 30mil, 7285mil, 2975mil) (InComponentClass('Power'))
+   Violation between Room Definition: Between Room Power (Bounding Region = (5290mil, 30mil, 7285mil, 2975mil) (InComponentClass('Power')) And SMT Small Component B1-BatteryHolder_AA (6305mil,2745mil) on Top Layer 
+   Violation between Room Definition: Between Room Power (Bounding Region = (5290mil, 30mil, 7285mil, 2975mil) (InComponentClass('Power')) And SMT Small Component B2-BatteryHolder_AA (6955mil,245mil) on Top Layer 
+   Violation between Room Definition: Between Room Power (Bounding Region = (5290mil, 30mil, 7285mil, 2975mil) (InComponentClass('Power')) And SMT Small Component SW1-RR3130Switch (5555mil,2115mil) on Top Layer 
+Rule Violations :3
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 59
+Waived Violations : 0
+Time Elapsed        : 00:00:01

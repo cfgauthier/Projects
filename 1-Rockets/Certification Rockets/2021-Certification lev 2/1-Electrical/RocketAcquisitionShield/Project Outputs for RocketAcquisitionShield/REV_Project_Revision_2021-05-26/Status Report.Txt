@@ -1,0 +1,12 @@
+Output: PCB NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CirclePCBV2.PcbDoc]
+   Generated File[CirclePCBV2.TXT]
+   Generated File[CirclePCBV2.LDP]
+   Generated File[CirclePCBV2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:17:43 PM On 2021-05-26

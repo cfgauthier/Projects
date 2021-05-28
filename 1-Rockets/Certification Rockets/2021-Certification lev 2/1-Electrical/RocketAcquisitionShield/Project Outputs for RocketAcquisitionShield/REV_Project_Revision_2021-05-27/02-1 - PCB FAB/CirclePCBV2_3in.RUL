@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Repos\ProjectsGitHub\Projects\1-Rockets\Certification Rockets\2021-Certification lev 2\1-Electrical\RocketAcquisitionShield\CirclePCBV2_3in.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

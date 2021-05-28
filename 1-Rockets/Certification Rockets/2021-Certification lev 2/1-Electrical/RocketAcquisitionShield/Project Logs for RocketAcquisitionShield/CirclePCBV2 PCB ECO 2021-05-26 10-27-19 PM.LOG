@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SD_SPI3 Pin=U1-CN4_6
+Added Pin To Net: NetName=SD_SPI2 Pin=U1-CN4_7
+Added Pin To Net: NetName=SD_SPI1 Pin=U1-CN4_8

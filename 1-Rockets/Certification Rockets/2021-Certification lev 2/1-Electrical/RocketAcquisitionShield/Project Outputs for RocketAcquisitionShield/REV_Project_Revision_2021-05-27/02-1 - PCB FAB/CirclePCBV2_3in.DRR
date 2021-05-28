@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: CirclePCBV2_3in.PcbDoc   2021-05-27  9:44:05 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : CirclePCBV2_3in.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             19        PTH        0.00inch (0.00mm)
+T2      30mil (0.762mm)                                           Round             21        PTH        0.00inch (0.00mm)
+T3      40mil (1.021mm)                                           Round             62        PTH        0.00inch (0.00mm)
+T4      80mil (2.032mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      85mil (2.149mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T6      118mil (3mm)                                              Round             2         PTH        0.00inch (0.00mm)
+T7      134mil (3.401mm)                                          Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              116
+
+Total Processing Time (hh:mm:ss) : 00:00:01
